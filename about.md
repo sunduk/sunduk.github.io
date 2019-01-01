@@ -11,7 +11,7 @@ permalink: /about/
 - 2012 리젠소프트
 - 2009 조이맥스
 - 2007 리젠소프트
-- [C#으로 온라인 게임 서버 만들기](http://www.hanbit.co.kr/store/books/look.php?p_code=E6015792502)
+- [C#으로 온라인 게임 서버 만들기](http://www.hanbit.co.kr/store/books/look.php?p_code=E6015792502) 집필
 - ![online game server](https://github.com/sunduk/sunduk.github.io/blob/master/images/E6015792502_l.jpg?raw=true)
 
 ## 주요 관심사
