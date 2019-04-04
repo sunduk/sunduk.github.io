@@ -6,6 +6,8 @@ Charlotte's Web(샬롯의 거미줄)을 읽다가 너무나 감명 깊은 문장
 
 소설의 내용을 모르고 본다면 그냥 평범한 문장일 수 있지만 스토리를 알고 읽으면 눈물이 맺힐 장면이다.
 
+축제에서 상을 받고 돌아온 돼지 윌버에게 샬롯이 해주는 말이다.
+
 <hr/>
 
 *"A little tired, perhaps. But I feel peaceful. Your success in the ring this morning was, to a small degree, my success.*
