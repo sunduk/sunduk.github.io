@@ -24,7 +24,7 @@ Charlotte's Web(샬롯의 거미줄)을 읽다가 너무나 감명 깊은 문장
 
 *Winter will pass, the days will lengthen, the ice will melt in the pasture pond.*
 
-*The song sparrow will return and sing, *
+*The song sparrow will return and sing,*
 
 *the frogs will awake,*
 
