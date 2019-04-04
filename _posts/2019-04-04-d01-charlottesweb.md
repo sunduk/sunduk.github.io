@@ -1,3 +1,9 @@
+layout: post
+title: Charlotte's Web
+tags: English
+---
+
+
 Charlotte's Web(샬롯의 거미줄)을 읽다가 너무나 감명 깊은 문장이 있어서 적어놓는다.
 
 특히 오늘 읽었을 때는 소름이 끼치면서 마음속 깊은곳 까지 감동이 전해져 왔다.
