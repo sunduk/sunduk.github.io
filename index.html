@@ -6,7 +6,7 @@ layout: default
   {% for post in paginator.posts %}
     <article class="post">    
       
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="date">
         <font size=medium>Written on {{ post.date | date: "%B %e, %Y" }}</font>
@@ -15,7 +15,13 @@ layout: default
       <br />
 
       <div class="entry">
-        {{ post.content | strip_html | truncatewords:40}}
+        <table cellpadding="5" cellspacing="0" border="1" align="center" style="border-collapse:collapse; border:1px gray solid;">
+          <tr>
+            <td>
+              {{ post.content | strip_html | truncatewords:40}}
+            </td>
+          </tr>
+        </table>
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">더 읽기</a>
