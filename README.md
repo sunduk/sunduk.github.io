@@ -55,3 +55,29 @@
 **PC Online Casual Action Game, RC Battler** - C++, Ogre3D, CEGUI  
 - Implemented a **real-time layout adjustment system** in the game view, improving the creation process.
 
+
+<br><br><br><br>
+
+# Open Source Contributions
+
+**OpenGL rendering, C++, GLSL**  
+📅 *November 2023*
+- https://github.com/sunduk/opengl-3d-examples/
+- Created a series of 3D rendering examples using OpenGL.
+
+---
+
+**FreeNet, C#, .NetCore**  
+📅 *October 2017*
+- https://github.com/sunduk/FreeNet/
+- Developed and maintained a network library in C# focused on high-performance networking.
+
+
+<br><br><br><br>
+
+# Publications
+
+**Creating an Online Game Server Using C# for Unity Developers**  
+📅 *May 2015*
+- https://www.hanbit.co.kr/store/books/look.php?p_code=E6015792502
+ 
