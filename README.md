@@ -1,6 +1,6 @@
 # Recent jobs
 
-**English word counter, React**  
+**English word counter** - React  
 📅 *March 2025*
 - [https://sunduk.github.io/englishword/](https://sunduk.github.io/englishword/)  
   <a href="https://sunduk.github.io/englishword/"><img src="./screenshot_wordcounter.png" width="300px" title="Github_Logo"/></a>
@@ -71,16 +71,16 @@
 
 # Open Source Contributions
 
-**OpenGL rendering, C++, GLSL**  
+**OpenGL rendering** - C++, GLSL  
 📅 *November 2023*
-- https://github.com/sunduk/opengl-3d-examples/
+- [https://github.com/sunduk/opengl-3d-examples/](https://github.com/sunduk/opengl-3d-examples/)
 - Created a series of 3D rendering examples using OpenGL.
 
 ---
 
-**FreeNet, C#, .NetCore**  
+**FreeNet** - C#, .NetCore  
 📅 *October 2017*
-- https://github.com/sunduk/FreeNet/
+- [https://github.com/sunduk/FreeNet/](https://github.com/sunduk/FreeNet/)
 - Developed and maintained a network library in C# focused on high-performance networking.
 
 
@@ -90,5 +90,6 @@
 
 **Creating an Online Game Server Using C# for Unity Developers**  
 📅 *May 2015*
-- https://www.hanbit.co.kr/store/books/look.php?p_code=E6015792502
+- [https://www.hanbit.co.kr/store/books/look.php?p_code=E6015792502](https://www.hanbit.co.kr/store/books/look.php?p_code=E6015792502)  
+  <a href="https://www.hanbit.co.kr/store/books/look.php?p_code=E6015792502"><img src="https://www.hanbit.co.kr/data/ebook/E6015792502_l.jpg" width=100></a>
  
