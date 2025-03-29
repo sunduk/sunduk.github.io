@@ -1,3 +1,13 @@
+# Recent jobs
+
+**English word counter**  
+📅 *March 2025*
+- [https://sunduk.github.io/englishword/](https://sunduk.github.io/englishword/)
+
+
+<br><br><br><br>
+
+
 # Experience
 
 ### **Server Programmer**  
