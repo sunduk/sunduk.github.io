@@ -1,8 +1,9 @@
 # Recent jobs
 
-**English word counter**  
+**English word counter, React**  
 📅 *March 2025*
-- [https://sunduk.github.io/englishword/](https://sunduk.github.io/englishword/)
+- [https://sunduk.github.io/englishword/](https://sunduk.github.io/englishword/)  
+  <a href="https://sunduk.github.io/englishword/"><img src="./screenshot_wordcounter.png" width="300px" title="Github_Logo"/></a>
 
 
 <br><br><br><br>
