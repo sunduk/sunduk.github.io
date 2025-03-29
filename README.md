@@ -71,6 +71,13 @@
 
 # Open Source Contributions
 
+**English word counter** - React
+📅 *March 2025*
+- [https://sunduk.github.io/englishword/](https://sunduk.github.io/englishword/)
+- A personal project for practicing React.
+
+---
+
 **OpenGL rendering** - C++, GLSL  
 📅 *November 2023*
 - [https://github.com/sunduk/opengl-3d-examples/](https://github.com/sunduk/opengl-3d-examples/)
