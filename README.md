@@ -13,7 +13,7 @@
 
 ### **Server Programmer**  
 **NCSOFT**  
-📅 *October 2020 – Present (4 years 5 months)* | 📍 *Gyeonggi-do, Korea*  
+📅 *October 2020 – June 2025 (4 years 9 months)* | 📍 *Gyeonggi-do, Korea*  
 
 **PC MMORPG, Blade&Soul** - C++, C#, Redis, MS-SQL  
 - Eliminated manual management by migrating a legacy ranking server to a real-time one.
