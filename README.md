@@ -105,12 +105,13 @@
 
 **기초부터 배운다! 3D 게임 프로그래밍**  
 📅 *November 2025*
-- [[https://www.yes24.com/product/goods/161528917](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=377010297))  
+- [[https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=377010297](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=377010297))  
   <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=377010297"><img src="./book_3dopengl/front.png" width="300px"/></a>
 
 
 **Creating an Online Game Server Using C# for Unity Developers**   
 📅 *May 2015*
 - [https://www.hanbit.co.kr/store/books/look.php?p_code=E6015792502](https://www.hanbit.co.kr/store/books/look.php?p_code=E6015792502)  
-  <a href="https://www.hanbit.co.kr/store/books/look.php?p_code=E6015792502"><img src="https://www.hanbit.co.kr/data/ebook/E6015792502_l.jpg" width=200></a>
+  <a href="https://www.hanbit.co.kr/store/books/look.php?p_code=E6015792502"><img src="https://image.aladin.co.kr/product/6906/5/cover500/8968487588_1.jpg" width=200></a>
+  
  
