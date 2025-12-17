@@ -95,12 +95,13 @@
 
 # Publications
 
-**Creating an Online Game Server Using C# for Unity Developers**  
+**기초부터 배운다! 3D 게임 프로그래밍**  
 📅 *November 2025*
 - [https://www.yes24.com/product/goods/161528917)  
-  <a href="https://www.yes24.com/product/goods/161528917"><img src="[https://www.hanbit.co.kr/data/ebook/E6015792502_l.jpg](https://github.com/user-attachments/assets/020051d7-3a8c-467c-a07b-cec6db4118e2)" alt="3d game programming" width=200></a>
+  <a href="https://www.yes24.com/product/goods/161528917"><img src="[https://raw.githubusercontent.com/sunduk/sunduk.github.io/refs/heads/main/book_3dopengl/front.png](https://github.com/user-attachments/assets/020051d7-3a8c-467c-a07b-cec6db4118e2)" alt="3d game programming" width=200></a>
 
- 
+
+**Creating an Online Game Server Using C# for Unity Developers**   
 📅 *May 2015*
 - [https://www.hanbit.co.kr/store/books/look.php?p_code=E6015792502](https://www.hanbit.co.kr/store/books/look.php?p_code=E6015792502)  
   <a href="https://www.hanbit.co.kr/store/books/look.php?p_code=E6015792502"><img src="https://www.hanbit.co.kr/data/ebook/E6015792502_l.jpg" width=200></a>
