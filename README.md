@@ -1,5 +1,13 @@
 # Recent jobs
 
+**Crashy Car** - Unity
+📅 *December 2025*
+- [https://play.google.com/store/apps/details?id=com.happyhouse.crashy](https://play.google.com/store/apps/details?id=com.happyhouse.crashy)  
+  <a href="https://sunduk.github.io/englishword/"><img src="./crashycar/icon3_512.png" width="300px" title="Github_Logo"/></a>
+
+
+<br><br>
+
 **English word counter** - React  
 📅 *March 2025*
 - [https://sunduk.github.io/englishword/](https://sunduk.github.io/englishword/)  
@@ -97,8 +105,8 @@
 
 **기초부터 배운다! 3D 게임 프로그래밍**  
 📅 *November 2025*
-- [https://www.yes24.com/product/goods/161528917)  
-  <a href="https://www.yes24.com/product/goods/161528917"><img src="[https://raw.githubusercontent.com/sunduk/sunduk.github.io/refs/heads/main/book_3dopengl/front.png](https://github.com/user-attachments/assets/020051d7-3a8c-467c-a07b-cec6db4118e2)" alt="3d game programming" width=200></a>
+- [[https://www.yes24.com/product/goods/161528917](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=377010297))  
+  <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=377010297"><img src="./book_3dopengl/front.png" width="300px"/></a>
 
 
 **Creating an Online Game Server Using C# for Unity Developers**   
